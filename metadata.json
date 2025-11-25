@@ -1,0 +1,7 @@
+{
+  "name": "WebAR Studio",
+  "description": "A browser-based platform to create and view Image Tracking Augmented Reality experiences without an app.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
